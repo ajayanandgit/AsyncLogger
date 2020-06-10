@@ -1,0 +1,9 @@
+C:\Ajay - Imp\assignment\Logging\LoggingTests\obj\Debug\LoggingTests.csprojResolveAssemblyReference.cache
+C:\Ajay - Imp\assignment\Logging\LoggingTests\bin\Debug\LoggingTests.dll
+C:\Ajay - Imp\assignment\Logging\LoggingTests\bin\Debug\LoggingTests.pdb
+C:\Ajay - Imp\assignment\Logging\LoggingTests\bin\Debug\Logging.dll
+C:\Ajay - Imp\assignment\Logging\LoggingTests\bin\Debug\nunit.framework.dll
+C:\Ajay - Imp\assignment\Logging\LoggingTests\bin\Debug\Logging.pdb
+C:\Ajay - Imp\assignment\Logging\LoggingTests\bin\Debug\nunit.framework.xml
+C:\Ajay - Imp\assignment\Logging\LoggingTests\obj\Debug\LoggingTests.dll
+C:\Ajay - Imp\assignment\Logging\LoggingTests\obj\Debug\LoggingTests.pdb
